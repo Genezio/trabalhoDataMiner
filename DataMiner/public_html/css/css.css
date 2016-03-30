@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/03/2016, 20:23:10
+    Author     : Genezio
+*/
+body{
+ 
+ padding-top: 20px;
+}
+form{
+    width: 300px;
+    padding-top: 30px;
+}
+
+#formCarA{
+    padding-top: 10px;
+    height: 60px;
+}
+#formArqIn{
+    padding-top: 3px;
+    height: 60px;
+    
+}
+.container{
+    width: 800px;
+    margin: 0 auto;
+     
+   
+}
+
+.jumbotron{
+    padding-top: 0;
+    margin-top: 5px;
+}
+#DivArq{
+    margin-top: 21px;
+}
